@@ -1,4 +1,4 @@
-/* %%base16_template: gtk-flatcolor##gtk-3 %% */
+/* %%base16_template: gtk-flatcolor##gtk-3 %%
 /*
 Base16 Rosé Pine Moon
 Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
@@ -15,5 +15,5 @@ In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color sch
 @define-color tooltip_bg_color #232136;
 @define-color tooltip_fg_color #e0def4;
 
-/* %%base16_template_end%% */
-
+/* %%base16_template_end%%
+*/
